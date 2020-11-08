@@ -1,4 +1,8 @@
 # Modal PopUp with React.js
+
+## Example: 
+![react-modalpopupimg](https://user-images.githubusercontent.com/71141025/98469241-20eef980-21bd-11eb-9b7f-e8550d50a261.jpg)
+
 Modals popup windows are very popular for capturing user information, such as emails. There are plenty of websites that utilize this to build their email list or collect leads for their newsletter or product.
 
 If you have purchased something online from an e-commerce website, then you've most likely encountered a popup offering you a discount or special offer. There are plenty of ways to utilize popup modals in your website,
@@ -26,4 +30,6 @@ code .
 Now you're ready to start coding.
 
 ### DEMO:
-https://react-modal-green.vercel.app/
+https://modalpupupreact.herokuapp.com/
+
+Thanks! ☺
